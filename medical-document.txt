@@ -1,6 +1,6 @@
 # Patient Medical Details
 Patient Name: John Doe
-Age: 56
+Age: 45
 Gender: Male
 Date of Visit: 2024-01-05
 
@@ -50,16 +50,3 @@ Plan:
 
 Follow-Up:
 Re-evaluate in 2 weeks or sooner if symptoms worsen.
-
-
-Medical Document Summary:
-Here is a concise summary of the medical documentation:
-
-A 56-year-old male patient with a history of hypertension, type 2 diabetes, and hyperlipidemia presents with persistent chest pain and shortness of breath that worsens with physical activity. The diagnosis is likely stable angina due to underlying cardiovascular disease. Treatment includes initiating beta-blocker therapy, increasing statin dose, and lifestyle modifications. Follow-up is scheduled for 2 weeks or sooner if symptoms worsen.
-
-
-Can you explain below medical history in simpler english language to a non medical knowledge person:
-
-A 56-year-old man has long-term health problems including high blood pressure, diabetes, and high cholesterol. He came to the doctor because he's been having chest pain and trouble breathing, especially when he does physical activities. The doctor thinks this is caused by stable angina, which means his heart isn't getting enough blood because of blocked or narrowed blood vessels.
-
-To help, the doctor is starting him on medication to reduce the strain on his heart (called beta-blockers), increasing his cholesterol-lowering medicine, and advising him to make healthier lifestyle choices like improving his diet and exercising safely. They will check on him again in two weeks, or sooner if his symptoms get worse.
